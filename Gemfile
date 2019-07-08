@@ -5,4 +5,4 @@ source "https://rubygems.org"
 
 gem 'rspec'
 gem 'pry'
-gem 
+gem 'pry-byebug'
